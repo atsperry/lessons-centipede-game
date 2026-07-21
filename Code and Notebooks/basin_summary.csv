@@ -1,0 +1,4 @@
+policy,policy_label,grid_resolution,total_grid_points,bi_count,bi_pct,partial_count,partial_pct,coop_count,coop_pct,mixed_count,mixed_pct,bi_conv_mean,bi_conv_median,bi_conv_std,bi_conv_min,bi_conv_max
+epsilon_greedy,Epsilon-Greedy,25,625,558,89.28,15,2.4,24,3.84,28,4.48,80567.10752688172,75455.5,29135.746059191857,30405,163459
+thompson,Thompson Sampling,25,625,559,89.44,16,2.56,9,1.44,41,6.56,50132.610017889085,47584.0,19397.232757057278,16132,112293
+exp3,Exp3,25,625,517,82.72,24,3.84,21,3.36,63,10.08,25084.769825918764,23587.0,9945.67190740608,8402,56549

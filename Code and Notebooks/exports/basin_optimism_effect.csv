@@ -1,0 +1,13 @@
+policy,policy_label,quadrant,n_points,bi_count,bi_rate,mean_conv_time,median_conv_time
+epsilon_greedy,Epsilon-Greedy,Both Pessimistic,625,573,91.68,51997.6387434555,32.0
+epsilon_greedy,Epsilon-Greedy,P1 Optimistic Only,625,567,90.72,43424.6455026455,0.0
+epsilon_greedy,Epsilon-Greedy,P2 Optimistic Only,625,554,88.64,80245.7761732852,9.5
+epsilon_greedy,Epsilon-Greedy,Both Optimistic,625,550,88.0,87617.94727272727,27.0
+thompson,Thompson Sampling,Both Pessimistic,625,604,96.64,13424.00165562914,662.5
+thompson,Thompson Sampling,P1 Optimistic Only,625,607,97.12,27482.12191103789,599.0
+thompson,Thompson Sampling,P2 Optimistic Only,625,604,96.64,29440.549668874173,671.5
+thompson,Thompson Sampling,Both Optimistic,625,601,96.16,27026.51081530782,665.0
+exp3,Exp3,Both Pessimistic,625,625,100.0,12991.9168,12582.0
+exp3,Exp3,P1 Optimistic Only,625,357,57.12,25031.949579831933,23613.0
+exp3,Exp3,P2 Optimistic Only,625,357,57.12,25082.722689075632,23737.0
+exp3,Exp3,Both Optimistic,625,21,3.36,24429.52380952381,21813.0

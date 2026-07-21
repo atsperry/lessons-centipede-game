@@ -1,0 +1,4 @@
+Algorithm,BI (%),Partial (%),Coop (%),Mixed (%),Mean Conv. Time,Median Conv. Time
+Epsilon-Greedy,89.76,2.28,3.96,4.0,65535.85204991087,12.0
+Thompson Sampling,96.64,0.2,2.6,0.56,24343.86175496689,648.0
+Exp3,54.4,0.16,21.04,24.4,19502.87205882353,17837.0

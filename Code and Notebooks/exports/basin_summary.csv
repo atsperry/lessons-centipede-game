@@ -1,0 +1,4 @@
+policy,policy_label,grid_resolution,total_grid_points,n_episodes,n_timesteps,param_range,bi_count,bi_pct,partial_count,partial_pct,coop_count,coop_pct,mixed_count,mixed_pct,bi_conv_mean,bi_conv_median,bi_conv_std,bi_conv_min,bi_conv_max,all_conv_mean,all_conv_median
+epsilon_greedy,Epsilon-Greedy,50,2500,2000,5000,"(-2.0, 2.0)",2244,89.76,57,2.28,99,3.96,100,4.0,65535.85204991087,12.0,456535.76615393424,0.0,7071772.0,78337.76123963334,17.0
+thompson,Thompson Sampling,50,2500,2000,5000,"(-0.5, 0.5)",2416,96.64,5,0.2,65,2.6,14,0.56,24343.86175496689,648.0,303016.73446062824,3.0,8018335.0,24343.86175496689,648.0
+exp3,Exp3,50,2500,2000,5000,"(-0.3, 0.3)",1360,54.4,4,0.16,526,21.04,610,24.4,19502.87205882353,17837.0,8017.408933328728,9330.0,71481.0,19502.87205882353,17837.0

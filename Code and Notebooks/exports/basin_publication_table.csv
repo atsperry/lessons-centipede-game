@@ -1,0 +1,4 @@
+Algorithm,Grid,BI Rate,Partial,Coop,Mixed,Mean Conv.,Median Conv.
+Epsilon-Greedy,50×50,89.8%,2.3%,4.0%,4.0%,"65,536",12
+Thompson Sampling,50×50,96.6%,0.2%,2.6%,0.6%,"24,344",648
+Exp3,50×50,54.4%,0.2%,21.0%,24.4%,"19,503","17,837"
