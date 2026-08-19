@@ -1,0 +1,10 @@
+Policy,Initial-bias region,Cells,Median cell first-attraction time,"Mean terminal (0,0) share",Mean terminal residual share,Mean probability of a later exit,Mean re-entries
+Epsilon-Greedy,Both initially favor earlier taking,625,0.0,0.9999969999999999,3.0000000000030003e-06,0.0,0.0
+Epsilon-Greedy,Both initially favor later taking,625,0.0,0.9999969999999999,3.0000000000030003e-06,0.0,0.0
+Epsilon-Greedy,Opposing initial directions,1250,0.0,0.9999969999999999,3.0000000000030003e-06,0.0,0.0
+Repaired Anytime Exp3,Both initially favor earlier taking,625,2247.5,0.9823800000000001,0.017620000000000004,0.9141,10.3225
+Repaired Anytime Exp3,Both initially favor later taking,625,4683.5,0.9823800000000001,0.017620000000000004,0.9845,11.3656
+Repaired Anytime Exp3,Opposing initial directions,1250,3220.0,0.9823800000000001,0.017620000000000004,0.9466,10.32025
+Thompson Sampling,Both initially favor earlier taking,625,609.5,0.998411364,0.0015886359999999864,0.5,1.58
+Thompson Sampling,Both initially favor later taking,625,623.0,0.9877561576,0.01224384239999999,0.4613,1.5413
+Thompson Sampling,Opposing initial directions,1250,623.0,0.9930813159999999,0.0069186839999999875,0.47625,1.55625

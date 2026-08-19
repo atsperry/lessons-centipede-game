@@ -1,0 +1,376 @@
+policy,category,grid_i,grid_j,bias_p1,bias_p2,window_index,window_end_round,outcome,share
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,1,100000,"(0,0)",0.99471875
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,1,100000,"(1,1)",4.3125e-05
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,1,100000,"(2,2)",3.25e-05
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,1,100000,Off diagonal,0.005205625000000015
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,1,100000,Residual,0.005281250000000015
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,2,200000,"(0,0)",0.999989375
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,2,200000,"(1,1)",0.0
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,2,200000,"(2,2)",0.0
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,2,200000,Off diagonal,1.0625000000041851e-05
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,2,200000,Residual,1.0625000000041851e-05
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,3,300000,"(0,0)",0.999994375
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,3,300000,"(1,1)",0.0
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,3,300000,"(2,2)",0.0
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,3,300000,Off diagonal,5.625000000009095e-06
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,3,300000,Residual,5.625000000009095e-06
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,4,400000,"(0,0)",0.999995625
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,4,400000,"(1,1)",0.0
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,4,400000,"(2,2)",0.0
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,4,400000,Off diagonal,4.374999999945395e-06
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,4,400000,Residual,4.374999999945395e-06
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,5,500000,"(0,0)",0.999998125
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,5,500000,"(1,1)",0.0
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,5,500000,"(2,2)",0.0
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,5,500000,Off diagonal,1.875000000040039e-06
+epsilon_greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,5,500000,Residual,1.875000000040039e-06
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,1,100000,"(0,0)",0.9955275
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,1,100000,"(1,1)",4e-05
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,1,100000,"(2,2)",3.25e-05
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,1,100000,Off diagonal,0.00439999999999999
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,1,100000,Residual,0.00447249999999999
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,2,200000,"(0,0)",0.99999
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,2,200000,"(1,1)",0.0
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,2,200000,"(2,2)",0.0
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,2,200000,Off diagonal,9.99999999995449e-06
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,2,200000,Residual,9.99999999995449e-06
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,3,300000,"(0,0)",0.999995
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,3,300000,"(1,1)",0.0
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,3,300000,"(2,2)",0.0
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,3,300000,Off diagonal,5.000000000032756e-06
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,3,300000,Residual,5.000000000032756e-06
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,4,400000,"(0,0)",0.999995625
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,4,400000,"(1,1)",0.0
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,4,400000,"(2,2)",0.0
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,4,400000,Off diagonal,4.374999999945395e-06
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,4,400000,Residual,4.374999999945395e-06
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,5,500000,"(0,0)",0.999998125
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,5,500000,"(1,1)",0.0
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,5,500000,"(2,2)",0.0
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,5,500000,Off diagonal,1.875000000040039e-06
+epsilon_greedy,Strongly late-biased,49,49,2.0,2.0,5,500000,Residual,1.875000000040039e-06
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,1,100000,"(0,0)",0.9956325
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,1,100000,"(1,1)",4e-05
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,1,100000,"(2,2)",3.125e-05
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,1,100000,Off diagonal,0.0042962499999999685
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,1,100000,Residual,0.004367499999999969
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,2,200000,"(0,0)",0.99999
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,2,200000,"(1,1)",0.0
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,2,200000,"(2,2)",0.0
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,2,200000,Off diagonal,9.99999999995449e-06
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,2,200000,Residual,9.99999999995449e-06
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,3,300000,"(0,0)",0.999995
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,3,300000,"(1,1)",0.0
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,3,300000,"(2,2)",0.0
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,3,300000,Off diagonal,5.000000000032756e-06
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,3,300000,Residual,5.000000000032756e-06
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,4,400000,"(0,0)",0.999995625
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,4,400000,"(1,1)",0.0
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,4,400000,"(2,2)",0.0
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,4,400000,Off diagonal,4.374999999945395e-06
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,4,400000,Residual,4.374999999945395e-06
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,5,500000,"(0,0)",0.999998125
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,5,500000,"(1,1)",0.0
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,5,500000,"(2,2)",0.0
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,5,500000,Off diagonal,1.875000000040039e-06
+epsilon_greedy,Asymmetric,49,0,2.0,-2.0,5,500000,Residual,1.875000000040039e-06
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,1,100000,"(0,0)",0.994409375
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,1,100000,"(1,1)",4.3125e-05
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,1,100000,"(2,2)",3.25e-05
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,1,100000,Off diagonal,0.00551499999999996
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,1,100000,Residual,0.00559062499999996
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,2,200000,"(0,0)",0.999989375
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,2,200000,"(1,1)",0.0
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,2,200000,"(2,2)",0.0
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,2,200000,Off diagonal,1.0625000000041851e-05
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,2,200000,Residual,1.0625000000041851e-05
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,3,300000,"(0,0)",0.999994375
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,3,300000,"(1,1)",0.0
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,3,300000,"(2,2)",0.0
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,3,300000,Off diagonal,5.625000000009095e-06
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,3,300000,Residual,5.625000000009095e-06
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,4,400000,"(0,0)",0.999995625
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,4,400000,"(1,1)",0.0
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,4,400000,"(2,2)",0.0
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,4,400000,Off diagonal,4.374999999945395e-06
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,4,400000,Residual,4.374999999945395e-06
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,5,500000,"(0,0)",0.999998125
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,5,500000,"(1,1)",0.0
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,5,500000,"(2,2)",0.0
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,5,500000,Off diagonal,1.875000000040039e-06
+epsilon_greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,5,500000,Residual,1.875000000040039e-06
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,1,100000,"(0,0)",0.994409375
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,1,100000,"(1,1)",4.3125e-05
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,1,100000,"(2,2)",3.25e-05
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,1,100000,Off diagonal,0.00551499999999996
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,1,100000,Residual,0.00559062499999996
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,2,200000,"(0,0)",0.999989375
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,2,200000,"(1,1)",0.0
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,2,200000,"(2,2)",0.0
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,2,200000,Off diagonal,1.0625000000041851e-05
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,2,200000,Residual,1.0625000000041851e-05
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,3,300000,"(0,0)",0.999994375
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,3,300000,"(1,1)",0.0
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,3,300000,"(2,2)",0.0
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,3,300000,Off diagonal,5.625000000009095e-06
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,3,300000,Residual,5.625000000009095e-06
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,4,400000,"(0,0)",0.999995625
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,4,400000,"(1,1)",0.0
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,4,400000,"(2,2)",0.0
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,4,400000,Off diagonal,4.374999999945395e-06
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,4,400000,Residual,4.374999999945395e-06
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,5,500000,"(0,0)",0.999998125
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,5,500000,"(1,1)",0.0
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,5,500000,"(2,2)",0.0
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,5,500000,Off diagonal,1.875000000040039e-06
+epsilon_greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,5,500000,Residual,1.875000000040039e-06
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,1,100000,"(0,0)",0.938135625
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,1,100000,"(1,1)",0.007776875
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,1,100000,"(2,2)",0.006868125
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,1,100000,Off diagonal,0.047219374999999966
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,1,100000,Residual,0.06186437499999997
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,2,200000,"(0,0)",0.97047375
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,2,200000,"(1,1)",0.001715625
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,2,200000,"(2,2)",0.000651875
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,2,200000,Off diagonal,0.027158749999999978
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,2,200000,Residual,0.029526249999999976
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,3,300000,"(0,0)",0.979383125
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,3,300000,"(1,1)",0.000765
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,3,300000,"(2,2)",0.00031625
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,3,300000,Off diagonal,0.01953562499999998
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,3,300000,Residual,0.02061687499999998
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,4,400000,"(0,0)",0.98476875
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,4,400000,"(1,1)",0.000406875
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,4,400000,"(2,2)",0.000164375
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,4,400000,Off diagonal,0.01466000000000003
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,4,400000,Residual,0.01523125000000003
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,5,500000,"(0,0)",0.988079375
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,5,500000,"(1,1)",0.000225625
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,5,500000,"(2,2)",0.000104375
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,5,500000,Off diagonal,0.011590625000000018
+thompson,Near neutral,24,24,-0.010204081632653,-0.010204081632653,5,500000,Residual,0.011920625000000018
+thompson,Strongly late-biased,49,49,0.5,0.5,1,100000,"(0,0)",0.940749375
+thompson,Strongly late-biased,49,49,0.5,0.5,1,100000,"(1,1)",0.007716875
+thompson,Strongly late-biased,49,49,0.5,0.5,1,100000,"(2,2)",0.006735625
+thompson,Strongly late-biased,49,49,0.5,0.5,1,100000,Off diagonal,0.044798125
+thompson,Strongly late-biased,49,49,0.5,0.5,1,100000,Residual,0.059250625
+thompson,Strongly late-biased,49,49,0.5,0.5,2,200000,"(0,0)",0.9706525
+thompson,Strongly late-biased,49,49,0.5,0.5,2,200000,"(1,1)",0.0017075
+thompson,Strongly late-biased,49,49,0.5,0.5,2,200000,"(2,2)",0.00065375
+thompson,Strongly late-biased,49,49,0.5,0.5,2,200000,Off diagonal,0.02698624999999997
+thompson,Strongly late-biased,49,49,0.5,0.5,2,200000,Residual,0.02934749999999997
+thompson,Strongly late-biased,49,49,0.5,0.5,3,300000,"(0,0)",0.97950125
+thompson,Strongly late-biased,49,49,0.5,0.5,3,300000,"(1,1)",0.000750625
+thompson,Strongly late-biased,49,49,0.5,0.5,3,300000,"(2,2)",0.000316875
+thompson,Strongly late-biased,49,49,0.5,0.5,3,300000,Off diagonal,0.019431250000000008
+thompson,Strongly late-biased,49,49,0.5,0.5,3,300000,Residual,0.02049875000000001
+thompson,Strongly late-biased,49,49,0.5,0.5,4,400000,"(0,0)",0.984841875
+thompson,Strongly late-biased,49,49,0.5,0.5,4,400000,"(1,1)",0.000403125
+thompson,Strongly late-biased,49,49,0.5,0.5,4,400000,"(2,2)",0.000164375
+thompson,Strongly late-biased,49,49,0.5,0.5,4,400000,Off diagonal,0.014590625000000022
+thompson,Strongly late-biased,49,49,0.5,0.5,4,400000,Residual,0.015158125000000022
+thompson,Strongly late-biased,49,49,0.5,0.5,5,500000,"(0,0)",0.988133125
+thompson,Strongly late-biased,49,49,0.5,0.5,5,500000,"(1,1)",0.000223125
+thompson,Strongly late-biased,49,49,0.5,0.5,5,500000,"(2,2)",0.000104375
+thompson,Strongly late-biased,49,49,0.5,0.5,5,500000,Off diagonal,0.011539375000000055
+thompson,Strongly late-biased,49,49,0.5,0.5,5,500000,Residual,0.011866875000000054
+thompson,Asymmetric,49,0,0.5,-0.5,1,100000,"(0,0)",0.9926175
+thompson,Asymmetric,49,0,0.5,-0.5,1,100000,"(1,1)",0.000246875
+thompson,Asymmetric,49,0,0.5,-0.5,1,100000,"(2,2)",8.4375e-05
+thompson,Asymmetric,49,0,0.5,-0.5,1,100000,Off diagonal,0.007051249999999959
+thompson,Asymmetric,49,0,0.5,-0.5,1,100000,Residual,0.0073824999999999585
+thompson,Asymmetric,49,0,0.5,-0.5,2,200000,"(0,0)",0.99959625
+thompson,Asymmetric,49,0,0.5,-0.5,2,200000,"(1,1)",0.0
+thompson,Asymmetric,49,0,0.5,-0.5,2,200000,"(2,2)",0.0
+thompson,Asymmetric,49,0,0.5,-0.5,2,200000,Off diagonal,0.000403750000000036
+thompson,Asymmetric,49,0,0.5,-0.5,2,200000,Residual,0.000403750000000036
+thompson,Asymmetric,49,0,0.5,-0.5,3,300000,"(0,0)",0.999795
+thompson,Asymmetric,49,0,0.5,-0.5,3,300000,"(1,1)",0.0
+thompson,Asymmetric,49,0,0.5,-0.5,3,300000,"(2,2)",0.0
+thompson,Asymmetric,49,0,0.5,-0.5,3,300000,Off diagonal,0.00020500000000001073
+thompson,Asymmetric,49,0,0.5,-0.5,3,300000,Residual,0.00020500000000001073
+thompson,Asymmetric,49,0,0.5,-0.5,4,400000,"(0,0)",0.9998625
+thompson,Asymmetric,49,0,0.5,-0.5,4,400000,"(1,1)",0.0
+thompson,Asymmetric,49,0,0.5,-0.5,4,400000,"(2,2)",0.0
+thompson,Asymmetric,49,0,0.5,-0.5,4,400000,Off diagonal,0.0001375000000000126
+thompson,Asymmetric,49,0,0.5,-0.5,4,400000,Residual,0.0001375000000000126
+thompson,Asymmetric,49,0,0.5,-0.5,5,500000,"(0,0)",0.99989375
+thompson,Asymmetric,49,0,0.5,-0.5,5,500000,"(1,1)",0.0
+thompson,Asymmetric,49,0,0.5,-0.5,5,500000,"(2,2)",0.0
+thompson,Asymmetric,49,0,0.5,-0.5,5,500000,Off diagonal,0.00010624999999997442
+thompson,Asymmetric,49,0,0.5,-0.5,5,500000,Residual,0.00010624999999997442
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,1,100000,"(0,0)",0.938056875
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,1,100000,"(1,1)",0.007805625
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,1,100000,"(2,2)",0.00686125
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,1,100000,Off diagonal,0.04727624999999999
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,1,100000,Residual,0.06194312499999999
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,2,200000,"(0,0)",0.970499375
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,2,200000,"(1,1)",0.00170875
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,2,200000,"(2,2)",0.000643125
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,2,200000,Off diagonal,0.027148749999999947
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,2,200000,Residual,0.029500624999999947
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,3,300000,"(0,0)",0.979376875
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,3,300000,"(1,1)",0.000769375
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,3,300000,"(2,2)",0.00031375
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,3,300000,Off diagonal,0.019539999999999964
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,3,300000,Residual,0.020623124999999964
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,4,400000,"(0,0)",0.98475625
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,4,400000,"(1,1)",0.000408125
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,4,400000,"(2,2)",0.000165
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,4,400000,Off diagonal,0.014670625
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,4,400000,Residual,0.01524375
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,5,500000,"(0,0)",0.9880675
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,5,500000,"(1,1)",0.00022625
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,5,500000,"(2,2)",0.000104375
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,5,500000,Off diagonal,0.011601875000000011
+thompson,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,5,500000,Residual,0.011932500000000013
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,1,100000,"(0,0)",0.938056875
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,1,100000,"(1,1)",0.007805625
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,1,100000,"(2,2)",0.00686125
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,1,100000,Off diagonal,0.04727624999999999
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,1,100000,Residual,0.06194312499999999
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,2,200000,"(0,0)",0.970499375
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,2,200000,"(1,1)",0.00170875
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,2,200000,"(2,2)",0.000643125
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,2,200000,Off diagonal,0.027148749999999947
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,2,200000,Residual,0.029500624999999947
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,3,300000,"(0,0)",0.979376875
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,3,300000,"(1,1)",0.000769375
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,3,300000,"(2,2)",0.00031375
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,3,300000,Off diagonal,0.019539999999999964
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,3,300000,Residual,0.020623124999999964
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,4,400000,"(0,0)",0.98475625
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,4,400000,"(1,1)",0.000408125
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,4,400000,"(2,2)",0.000165
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,4,400000,Off diagonal,0.014670625
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,4,400000,Residual,0.01524375
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,5,500000,"(0,0)",0.9880675
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,5,500000,"(1,1)",0.00022625
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,5,500000,"(2,2)",0.000104375
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,5,500000,Off diagonal,0.011601875000000011
+thompson,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,5,500000,Residual,0.011932500000000013
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,1,100000,"(0,0)",0.950489375
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,1,100000,"(1,1)",0.000955
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,1,100000,"(2,2)",0.000203125
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,1,100000,Off diagonal,0.048352500000000034
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,1,100000,Residual,0.04951062500000003
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,2,200000,"(0,0)",0.974798125
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,2,200000,"(1,1)",3.625e-05
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,2,200000,"(2,2)",4.4375e-05
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,2,200000,Off diagonal,0.02512125000000004
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,2,200000,Residual,0.02520187500000004
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,3,300000,"(0,0)",0.978709375
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,3,300000,"(1,1)",2.3125e-05
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,3,300000,"(2,2)",2.5e-05
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,3,300000,Off diagonal,0.021242500000000008
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,3,300000,Residual,0.021290625000000007
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,4,400000,"(0,0)",0.9811125
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,4,400000,"(1,1)",1.6875e-05
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,4,400000,"(2,2)",2.75e-05
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,4,400000,Off diagonal,0.018843124999999947
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,4,400000,Residual,0.018887499999999946
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,5,500000,"(0,0)",0.982600625
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,5,500000,"(1,1)",1.8125e-05
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,5,500000,"(2,2)",1.75e-05
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,5,500000,Off diagonal,0.017363749999999994
+exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,5,500000,Residual,0.017399374999999995
+exp3,Strongly late-biased,49,49,0.3,0.3,1,100000,"(0,0)",0.8948325
+exp3,Strongly late-biased,49,49,0.3,0.3,1,100000,"(1,1)",0.013955625
+exp3,Strongly late-biased,49,49,0.3,0.3,1,100000,"(2,2)",0.00100125
+exp3,Strongly late-biased,49,49,0.3,0.3,1,100000,Off diagonal,0.09021062499999997
+exp3,Strongly late-biased,49,49,0.3,0.3,1,100000,Residual,0.10516749999999997
+exp3,Strongly late-biased,49,49,0.3,0.3,2,200000,"(0,0)",0.97479375
+exp3,Strongly late-biased,49,49,0.3,0.3,2,200000,"(1,1)",3.625e-05
+exp3,Strongly late-biased,49,49,0.3,0.3,2,200000,"(2,2)",4.4375e-05
+exp3,Strongly late-biased,49,49,0.3,0.3,2,200000,Off diagonal,0.025125624999999985
+exp3,Strongly late-biased,49,49,0.3,0.3,2,200000,Residual,0.025206249999999986
+exp3,Strongly late-biased,49,49,0.3,0.3,3,300000,"(0,0)",0.978709375
+exp3,Strongly late-biased,49,49,0.3,0.3,3,300000,"(1,1)",2.3125e-05
+exp3,Strongly late-biased,49,49,0.3,0.3,3,300000,"(2,2)",2.5e-05
+exp3,Strongly late-biased,49,49,0.3,0.3,3,300000,Off diagonal,0.021242500000000008
+exp3,Strongly late-biased,49,49,0.3,0.3,3,300000,Residual,0.021290625000000007
+exp3,Strongly late-biased,49,49,0.3,0.3,4,400000,"(0,0)",0.9811125
+exp3,Strongly late-biased,49,49,0.3,0.3,4,400000,"(1,1)",1.6875e-05
+exp3,Strongly late-biased,49,49,0.3,0.3,4,400000,"(2,2)",2.75e-05
+exp3,Strongly late-biased,49,49,0.3,0.3,4,400000,Off diagonal,0.018843124999999947
+exp3,Strongly late-biased,49,49,0.3,0.3,4,400000,Residual,0.018887499999999946
+exp3,Strongly late-biased,49,49,0.3,0.3,5,500000,"(0,0)",0.982600625
+exp3,Strongly late-biased,49,49,0.3,0.3,5,500000,"(1,1)",1.8125e-05
+exp3,Strongly late-biased,49,49,0.3,0.3,5,500000,"(2,2)",1.75e-05
+exp3,Strongly late-biased,49,49,0.3,0.3,5,500000,Off diagonal,0.017363749999999994
+exp3,Strongly late-biased,49,49,0.3,0.3,5,500000,Residual,0.017399374999999995
+exp3,Asymmetric,49,0,0.3,-0.3,1,100000,"(0,0)",0.944018125
+exp3,Asymmetric,49,0,0.3,-0.3,1,100000,"(1,1)",0.00177875
+exp3,Asymmetric,49,0,0.3,-0.3,1,100000,"(2,2)",0.000245
+exp3,Asymmetric,49,0,0.3,-0.3,1,100000,Off diagonal,0.053958124999999954
+exp3,Asymmetric,49,0,0.3,-0.3,1,100000,Residual,0.05598187499999996
+exp3,Asymmetric,49,0,0.3,-0.3,2,200000,"(0,0)",0.974798125
+exp3,Asymmetric,49,0,0.3,-0.3,2,200000,"(1,1)",3.625e-05
+exp3,Asymmetric,49,0,0.3,-0.3,2,200000,"(2,2)",4.4375e-05
+exp3,Asymmetric,49,0,0.3,-0.3,2,200000,Off diagonal,0.02512125000000004
+exp3,Asymmetric,49,0,0.3,-0.3,2,200000,Residual,0.02520187500000004
+exp3,Asymmetric,49,0,0.3,-0.3,3,300000,"(0,0)",0.978709375
+exp3,Asymmetric,49,0,0.3,-0.3,3,300000,"(1,1)",2.3125e-05
+exp3,Asymmetric,49,0,0.3,-0.3,3,300000,"(2,2)",2.5e-05
+exp3,Asymmetric,49,0,0.3,-0.3,3,300000,Off diagonal,0.021242500000000008
+exp3,Asymmetric,49,0,0.3,-0.3,3,300000,Residual,0.021290625000000007
+exp3,Asymmetric,49,0,0.3,-0.3,4,400000,"(0,0)",0.9811125
+exp3,Asymmetric,49,0,0.3,-0.3,4,400000,"(1,1)",1.6875e-05
+exp3,Asymmetric,49,0,0.3,-0.3,4,400000,"(2,2)",2.75e-05
+exp3,Asymmetric,49,0,0.3,-0.3,4,400000,Off diagonal,0.018843124999999947
+exp3,Asymmetric,49,0,0.3,-0.3,4,400000,Residual,0.018887499999999946
+exp3,Asymmetric,49,0,0.3,-0.3,5,500000,"(0,0)",0.982600625
+exp3,Asymmetric,49,0,0.3,-0.3,5,500000,"(1,1)",1.8125e-05
+exp3,Asymmetric,49,0,0.3,-0.3,5,500000,"(2,2)",1.75e-05
+exp3,Asymmetric,49,0,0.3,-0.3,5,500000,Off diagonal,0.017363749999999994
+exp3,Asymmetric,49,0,0.3,-0.3,5,500000,Residual,0.017399374999999995
+exp3,Slowest median attraction,49,49,0.3,0.3,1,100000,"(0,0)",0.8948325
+exp3,Slowest median attraction,49,49,0.3,0.3,1,100000,"(1,1)",0.013955625
+exp3,Slowest median attraction,49,49,0.3,0.3,1,100000,"(2,2)",0.00100125
+exp3,Slowest median attraction,49,49,0.3,0.3,1,100000,Off diagonal,0.09021062499999997
+exp3,Slowest median attraction,49,49,0.3,0.3,1,100000,Residual,0.10516749999999997
+exp3,Slowest median attraction,49,49,0.3,0.3,2,200000,"(0,0)",0.97479375
+exp3,Slowest median attraction,49,49,0.3,0.3,2,200000,"(1,1)",3.625e-05
+exp3,Slowest median attraction,49,49,0.3,0.3,2,200000,"(2,2)",4.4375e-05
+exp3,Slowest median attraction,49,49,0.3,0.3,2,200000,Off diagonal,0.025125624999999985
+exp3,Slowest median attraction,49,49,0.3,0.3,2,200000,Residual,0.025206249999999986
+exp3,Slowest median attraction,49,49,0.3,0.3,3,300000,"(0,0)",0.978709375
+exp3,Slowest median attraction,49,49,0.3,0.3,3,300000,"(1,1)",2.3125e-05
+exp3,Slowest median attraction,49,49,0.3,0.3,3,300000,"(2,2)",2.5e-05
+exp3,Slowest median attraction,49,49,0.3,0.3,3,300000,Off diagonal,0.021242500000000008
+exp3,Slowest median attraction,49,49,0.3,0.3,3,300000,Residual,0.021290625000000007
+exp3,Slowest median attraction,49,49,0.3,0.3,4,400000,"(0,0)",0.9811125
+exp3,Slowest median attraction,49,49,0.3,0.3,4,400000,"(1,1)",1.6875e-05
+exp3,Slowest median attraction,49,49,0.3,0.3,4,400000,"(2,2)",2.75e-05
+exp3,Slowest median attraction,49,49,0.3,0.3,4,400000,Off diagonal,0.018843124999999947
+exp3,Slowest median attraction,49,49,0.3,0.3,4,400000,Residual,0.018887499999999946
+exp3,Slowest median attraction,49,49,0.3,0.3,5,500000,"(0,0)",0.982600625
+exp3,Slowest median attraction,49,49,0.3,0.3,5,500000,"(1,1)",1.8125e-05
+exp3,Slowest median attraction,49,49,0.3,0.3,5,500000,"(2,2)",1.75e-05
+exp3,Slowest median attraction,49,49,0.3,0.3,5,500000,Off diagonal,0.017363749999999994
+exp3,Slowest median attraction,49,49,0.3,0.3,5,500000,Residual,0.017399374999999995
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,1,100000,"(0,0)",0.91582125
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,1,100000,"(1,1)",0.00558625
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,1,100000,"(2,2)",0.00037125
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,1,100000,Off diagonal,0.07822124999999996
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,1,100000,Residual,0.08417874999999997
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,2,200000,"(0,0)",0.974798125
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,2,200000,"(1,1)",3.625e-05
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,2,200000,"(2,2)",4.4375e-05
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,2,200000,Off diagonal,0.02512125000000004
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,2,200000,Residual,0.02520187500000004
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,3,300000,"(0,0)",0.978709375
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,3,300000,"(1,1)",2.3125e-05
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,3,300000,"(2,2)",2.5e-05
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,3,300000,Off diagonal,0.021242500000000008
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,3,300000,Residual,0.021290625000000007
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,4,400000,"(0,0)",0.9811125
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,4,400000,"(1,1)",1.6875e-05
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,4,400000,"(2,2)",2.75e-05
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,4,400000,Off diagonal,0.018843124999999947
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,4,400000,Residual,0.018887499999999946
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,5,500000,"(0,0)",0.982600625
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,5,500000,"(1,1)",1.8125e-05
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,5,500000,"(2,2)",1.75e-05
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,5,500000,Off diagonal,0.017363749999999994
+exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,5,500000,Residual,0.017399374999999995

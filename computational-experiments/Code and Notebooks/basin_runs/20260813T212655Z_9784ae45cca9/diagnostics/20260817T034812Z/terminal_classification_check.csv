@@ -1,0 +1,4 @@
+policy,mean_classified_p_stage0,minimum_classified_p_stage0,maximum_outcome_entropy,minimum_horizon,maximum_horizon,Policy
+epsilon_greedy,1.0,1.0,0.0,500000,500000,Epsilon-Greedy
+exp3,1.0,1.0,0.0,500000,500000,Repaired Anytime Exp3
+thompson,1.0,1.0,0.0,500000,500000,Thompson Sampling

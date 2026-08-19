@@ -1,0 +1,4 @@
+policy,grid_cells,expected_cells,cell_files_complete,probability_sums_valid,probabilities_in_unit_interval,replicate_rows_match,horizons_valid,stable_fraction_valid
+Epsilon-Greedy,2500,2500,True,True,True,True,True,True
+Thompson Sampling,2500,2500,True,True,True,True,True,True
+Repaired Anytime Exp3,2500,2500,True,True,True,True,True,True

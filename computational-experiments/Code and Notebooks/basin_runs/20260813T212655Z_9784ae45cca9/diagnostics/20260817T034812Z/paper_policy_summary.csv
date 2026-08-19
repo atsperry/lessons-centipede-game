@@ -1,0 +1,4 @@
+Policy,Grid cells,Replicates,"Mean terminal (0,0) share","Minimum replicate terminal (0,0) share",Mean terminal off-diagonal share,Median first-attraction time,90th percentile first-attraction time,Fraction later exiting,Mean re-entries
+Epsilon-Greedy,2500,40000,0.9999970000000001,0.999992,3.0000000000030003e-06,0.0,1741.0,0.0,0.0
+Thompson Sampling,2500,40000,0.9930825383999999,0.805616,0.006725177799999962,623.0,3331.0,0.47845,1.55845
+Repaired Anytime Exp3,2500,40000,0.9823800000000001,0.981944,0.017580499999999957,3235.0,7393.0,0.94795,10.58215

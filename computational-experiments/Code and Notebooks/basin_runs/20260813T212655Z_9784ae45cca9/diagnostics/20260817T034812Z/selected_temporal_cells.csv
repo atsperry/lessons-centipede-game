@@ -1,0 +1,16 @@
+policy,policy_label,category,grid_i,grid_j,bias_p1,bias_p2,median_first_attraction_time,mean_terminal_stage0_share,mean_terminal_off_diagonal_share
+epsilon_greedy,Epsilon-Greedy,Near neutral,24,24,-0.0408163265306122,-0.0408163265306122,0.0,0.999997,3.0000000000030003e-06
+epsilon_greedy,Epsilon-Greedy,Strongly late-biased,49,49,2.0,2.0,0.0,0.999997,3.0000000000030003e-06
+epsilon_greedy,Epsilon-Greedy,Asymmetric,49,0,2.0,-2.0,0.0,0.999997,3.0000000000030003e-06
+epsilon_greedy,Epsilon-Greedy,Slowest median attraction,49,1,2.0,-1.9183673469387752,1.0,0.999997,3.0000000000030003e-06
+epsilon_greedy,Epsilon-Greedy,Least terminally concentrated,49,2,2.0,-1.836734693877551,1.0,0.999997,3.0000000000030003e-06
+thompson,Thompson Sampling,Near neutral,24,24,-0.010204081632653,-0.010204081632653,820.0,0.9877355,0.011920499999999964
+thompson,Thompson Sampling,Strongly late-biased,49,49,0.5,0.5,623.0,0.9877915,0.011866999999999956
+thompson,Thompson Sampling,Asymmetric,49,0,0.5,-0.5,515.5,0.9998900000000001,0.00010999999999996093
+thompson,Thompson Sampling,Slowest median attraction,8,22,-0.336734693877551,-0.0510204081632653,820.0,0.987722,0.011932999999999964
+thompson,Thompson Sampling,Least terminally concentrated,8,23,-0.336734693877551,-0.0306122448979592,820.0,0.987722,0.011932999999999964
+exp3,Repaired Anytime Exp3,Near neutral,24,24,-0.0061224489795918,-0.0061224489795918,3246.0,0.98238,0.017580499999999957
+exp3,Repaired Anytime Exp3,Strongly late-biased,49,49,0.3,0.3,8520.0,0.98238,0.017580499999999957
+exp3,Repaired Anytime Exp3,Asymmetric,49,0,0.3,-0.3,4395.0,0.98238,0.017580499999999957
+exp3,Repaired Anytime Exp3,Slowest median attraction,49,49,0.3,0.3,8520.0,0.98238,0.017580499999999957
+exp3,Repaired Anytime Exp3,Least terminally concentrated,45,49,0.2510204081632652,0.3,8432.0,0.98238,0.017580499999999957
